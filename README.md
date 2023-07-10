@@ -1,1 +1,1 @@
-# Barometre-science-ouverte-Univ.-Lyon-2
+# Baromètre science ouverte de l'Université Lyon 2
